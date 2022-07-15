@@ -1,0 +1,59 @@
+Tasks inventory
+
+I am an industry professional with 10+ years working experience on production grade applications. I work on all kind of technical aspects including architecture design of production grade applications, coding, microservices, kubernetes, openshift, K3s, minikube, docker, technical documentation. These things are part of my daily work schedule, so I have firm grasp on these technologies.
+My technical skill sets covers the below:
+Kubernetes,Docker,Openshift,Openstack,Spring framework,Selenium,Jmeter,CCNA,mongoDB,postgreSQL,Agile methodology,Python,NodeJS,DevOps,Slack,SSO,SAML,OIDC,Jenkins,CICD,Nginx,HAProxy
+
+API Standardization using Swagger
+DB schema design for NoSQL databases
+Group Based Policy Design and Decision enforcement
+Notifications management system - Server sent events, push notifications, VMB message notifications, emails, websockets
+Business process modelling using Camunda/Openstack Mistral with human & script based tasks for approval/rejection/re-approval of software artifacts from external vendors.
+Authentication and authorization design for microservices architecture
+Central key-value management system using etcd.
+API mock server for testing teams
+Automated cluster configuration backup and management using Velero
+Prometheus integration with Kubernetes clusters
+Central certificate management using Citadel
+Jfrog aritfactory federation setup and migration
+Standardized regex based input validation across all APIs
+Resumable file uploads implementation using TUS protocol
+CICD Devops pipeline with Blackduck integration and SAST/DAST scans, Fortify scans
+Webhooks implementation
+Snapshot integration 
+Active Directory and LDAP integration
+User Management-disabled user accounts, inactive accounts, expiry and termination
+Performance testbed design, implementation and benchmarking using Jmeter, Ab, Kibana and Grafana, InfluxDB
+Managed SFTP service to handle ingestion of artifacts from vendors via SFTP in automated+manual fashion
+Adminstration Management for Marketplace
+Newrelic monitoring integration
+java upgrade from 7/8/11
+Malware Scanning integration using ClamAV antivirus
+Smart search implementation using key indexing
+Reports service to generate reports on weekly/monthly/quaterly basis.
+NF Package Validation as per ETSI SOL004/SOL001 specifications
+Vulnerability Scanning for container images 
+Security Policy to block/allow container images from being promoted to production environments.
+Secrets Management system using MongoDB and hashicorp Vault
+Selenium automation for automated regression suite
+Installing and setting up K8s cluster in production environments
+Cluster hardening
+Setting up distributed GlusterFS storage across multiple production sites
+Jenkins Pipeline setup and integration
+Parallel container push to 100s of sublcouds for 5G vDU deployment
+Token management service
+Implement cross site mongoDB setup, replication with channel encryption
+LDAP integration with mongoDB for authentication and authorization
+JIRA and confluence integration
+Apache Pulsar integration for messaging queues
+Event streaming service to track vDU deployment and upgrade progress
+User Tasking using Camunda BPMN
+Live sync data sync across production sites over SSL
+Tableau integration with Marketplace
+
+
+
+
+
+
+
